@@ -1,0 +1,1 @@
+{"JS": ["MeiBangDing", "BangDing", "BP"], "DJ": ["MeiBangDing", "BangDing", "BP"], "CJ": ["MeiBangDing", "Map"], "SHOT": [], "shot_num": {"layout": "\u5206\u955c", "Animation": "\u52a8\u753b", "CFX": "\u89e3\u7b97", "VFX": "\u7279\u6548", "Light": "\u706f\u5149", "Effect": "", "Comp": "\u5408\u6210"}}
